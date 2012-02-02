@@ -1,0 +1,10 @@
+C:\Users\igbyogap\Documents\Visual Studio 2010\Projects\Barang\Barang\bin\Debug\Barang.dll
+C:\Users\igbyogap\Documents\Visual Studio 2010\Projects\Barang\Barang\bin\Debug\Barang.pdb
+C:\Users\igbyogap\Documents\Visual Studio 2010\Projects\Barang\Barang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igbyogap\Documents\Visual Studio 2010\Projects\Barang\Barang\obj\Debug\Barang.dll
+C:\Users\igbyogap\Documents\Visual Studio 2010\Projects\Barang\Barang\obj\Debug\Barang.pdb
+C:\REPO\MyStore\Barang\bin\Debug\Barang.dll
+C:\REPO\MyStore\Barang\bin\Debug\Barang.pdb
+C:\REPO\MyStore\Barang\obj\Debug\ResolveAssemblyReference.cache
+C:\REPO\MyStore\Barang\obj\Debug\Barang.dll
+C:\REPO\MyStore\Barang\obj\Debug\Barang.pdb

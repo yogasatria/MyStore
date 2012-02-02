@@ -9,19 +9,19 @@ namespace Barang
 {
     public class JenisBarang
     {
-        private int kodeJns;
-        private string keteranganJns;
+        private int kodeJenis;
+        private string keteranganJenis;
         SqlConnection conn = new SqlConnection();
 
         public int KodeJenis 
         {
             get 
             {
-                return kodeJns;
+                return kodeJenis;
             }
             set 
             {
-                kodeJns = value;
+                kodeJenis = value;
             }
         }
 
@@ -29,11 +29,11 @@ namespace Barang
         {
             get
             {
-                return keteranganJns;
+                return keteranganJenis;
             }
             set
             {
-                keteranganJns = value;
+                keteranganJenis = value;
             }
         }
 
@@ -48,11 +48,11 @@ namespace Barang
             conn.Close();
         }
 
-        public Boolean DoSave(JenisBarang jnsBarang)
+        public Boolean DoSave(JenisBarang jenisBarang)
         {
             try
             {
-                SqlCommand insertCommand = new SqlCommand("INSERT INTO JenisBarang VALUES (" + jnsBarang.kodeJns + ",'" + jnsBarang.KeteranganJenis + "')",conn);
+                SqlCommand insertCommand = new SqlCommand("INSERT INTO JenisBarang VALUES (" + jenisBarang.kodeJenis + ",'" + jenisBarang.KeteranganJenis + "')",conn);
                 OpenConnection();
                 insertCommand.ExecuteNonQuery();
             }
@@ -69,12 +69,12 @@ namespace Barang
          
         }
 
-        public int DoCheckExist(JenisBarang jnsBarang)
+        public int DoCheckExist(JenisBarang jenisBarang)
         {
             int RecordCount = 0;
             try
             {
-                SqlCommand SQLCommand = new SqlCommand("SELECT * FROM JenisBarang WHERE KodeJenis = " + jnsBarang.kodeJns, conn);
+                SqlCommand SQLCommand = new SqlCommand("SELECT * FROM JenisBarang WHERE KodeJenis = " + jenisBarang.kodeJenis, conn);
                 OpenConnection();
                 RecordCount = (int)SQLCommand.ExecuteScalar();
             }

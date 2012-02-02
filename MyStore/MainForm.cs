@@ -18,9 +18,9 @@ namespace MyStore
 
         private void jenisBarangToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormMasterJenisBarang Form = new FormMasterJenisBarang();
-            Form.MdiParent = this;
-            Form.Show();
+            FormMasterJenisBarang FormJenisBarang = new FormMasterJenisBarang();
+            FormJenisBarang.MdiParent = this;
+            FormJenisBarang.Show();
         }
     }
 }

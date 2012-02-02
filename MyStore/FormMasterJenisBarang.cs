@@ -14,16 +14,16 @@ namespace MyStore
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            JenisBarang JnsBarang = new JenisBarang();
-            JnsBarang.KodeJenis = Convert.ToInt32(txtKodeJenis.Text);
-            JnsBarang.KeteranganJenis = txtKeterangan.Text;
-            if (JnsBarang.DoCheckExist(JnsBarang) > 0)
+            JenisBarang jenisBarang = new JenisBarang();
+            jenisBarang.KodeJenis = Convert.ToInt32(txtKodeJenis.Text);
+            jenisBarang.KeteranganJenis = txtKeterangan.Text;
+            if (jenisBarang.DoCheckExist(jenisBarang) > 0)
             {
-                MessageBox.Show("Kode Jenis : " + JnsBarang.KodeJenis + " Already exist. ");
+                MessageBox.Show("Kode Jenis : " + jenisBarang.KodeJenis + " Already exist. ");
             }
             else
             {
-                if (JnsBarang.DoSave(JnsBarang) == true)
+                if (jenisBarang.DoSave(jenisBarang) == true)
                 {
                     MessageBox.Show("Record Saved");
                 }

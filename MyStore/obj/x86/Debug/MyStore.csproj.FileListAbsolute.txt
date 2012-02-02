@@ -1,0 +1,23 @@
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\MyStore.FormMasterJenisBarang.resources
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\MyStore.MainForm.resources
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\bin\Debug\MyStore.exe
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\bin\Debug\MyStore.pdb
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\bin\Debug\Barang.dll
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\bin\Debug\Barang.pdb
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\MyStore.exe
+c:\Users\igbyogap\Documents\Visual Studio 2010\Projects\MyStore\MyStore\obj\x86\Debug\MyStore.pdb
+C:\REPO\MyStore\MyStore\bin\Debug\MyStore.exe
+C:\REPO\MyStore\MyStore\bin\Debug\MyStore.pdb
+C:\REPO\MyStore\MyStore\bin\Debug\Barang.pdb
+C:\REPO\MyStore\MyStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\REPO\MyStore\MyStore\obj\x86\Debug\MyStore.FormMasterJenisBarang.resources
+C:\REPO\MyStore\MyStore\obj\x86\Debug\MyStore.MainForm.resources
+C:\REPO\MyStore\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\REPO\MyStore\MyStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\REPO\MyStore\MyStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\REPO\MyStore\MyStore\obj\x86\Debug\MyStore.exe
+C:\REPO\MyStore\MyStore\obj\x86\Debug\MyStore.pdb
